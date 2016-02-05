@@ -10,6 +10,7 @@ namespace TestWithGit
     {
         static void Main(string[] args)
         {
+            // Main comment
         }
 
         private static void Fuck()
