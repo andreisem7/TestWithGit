@@ -10,7 +10,12 @@ namespace TestWithGit
     {
         static void Main(string[] args)
         {
-            // Submaster, with comment
+            // Main comment, new comment
+        }
+
+        private static void Fuck()
+        { 
+           // Abr
         }
     }
 }
