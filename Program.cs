@@ -10,7 +10,7 @@ namespace TestWithGit
     {
         static void Main(string[] args)
         {
-            // Main comment
+            // Main comment, new comment
         }
     }
 }
