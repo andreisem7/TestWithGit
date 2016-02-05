@@ -15,7 +15,7 @@ namespace TestWithGit
 
         private static void Fuck()
         { 
-            // Some new fuck comment
+           
         }
     }
 }
