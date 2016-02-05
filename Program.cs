@@ -11,5 +11,10 @@ namespace TestWithGit
         static void Main(string[] args)
         {
         }
+
+        private static void Fuck()
+        { 
+
+        }
     }
 }
