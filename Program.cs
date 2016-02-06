@@ -10,7 +10,7 @@ namespace TestWithGit
     {
         static void Main(string[] args)
         {
-            // Master no comment
+            // Clear empty master
         }
     }
 }
