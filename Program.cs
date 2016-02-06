@@ -10,7 +10,11 @@ namespace TestWithGit
     {
         static void Main(string[] args)
         {
-            // Clear empty master
+            
+        }
+
+        private static void FromMasterMethod()
+        { 
         }
     }
 }
